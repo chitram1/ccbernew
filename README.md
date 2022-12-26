@@ -1,4 +1,4 @@
-`ccber`: an `R` Package for the Estimation of Behavioral Entropy Rate - Developed for the Conte Center @ UCI
+`ccber`: an `R` Package for the Estimation of Behavioral Entropy Rate - Developed for the Conte Center @ UCI, edited for additional entropy calculations
 ============================================================================================================
 
 See reference: Davis, E.P., Stout, S.A., Molet, J., Vegetabile, B.,
@@ -17,9 +17,9 @@ installed.
     install.packages('devtools', dependencies = TRUE)
 
 Once that package has been installed, use the following to install
-`ccber`
+`ccber` with the updates
 
-    devtools::install_github('bvegetabile/ccber')
+    devtools::install_github('chitram1/ccbernew')
 
 Load the package to begin analysis!
 
@@ -29,7 +29,7 @@ Quick Start
 -----------
 
 Download files from
-[github.com/bvegetabile/ccber/tree/master/testfiles/testfiles.zip](https://github.com/bvegetabile/ccber/blob/master/testfiles/testfiles.zip).
+[github.com/chitram1/ccbernew/tree/master/testfiles/testfiles.zip](https://github.com/chitram1/ccbernew/blob/master/testfiles/testfiles.zip).
 
 ![Screenshot of the download location for
 testfiles.zip"](SDD/download_button.png)
