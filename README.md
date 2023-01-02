@@ -5,7 +5,8 @@ See reference: Davis, E.P., Stout, S.A., Molet, J., Vegetabile, B.,
 Glynn, L.M., Sandman, C.A., Heins, K., Stern, H., Baram, T.Z. (2017).
 **Exposure to unpredictable maternal sensory signals influences
 cognitive development across-species**. *Proceedings of the National
-Academy of Sciences*. September 26, 2017. 114 (39) 10390-10395
+Academy of Sciences*. September 26, 2017. 114 (39) 10390-10395, Edits
+by Chitra Mukherjee
 
 Installing `ccber`
 ------------------
